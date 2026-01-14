@@ -49,18 +49,4 @@ Using statistical methods, we will explore and answer critical healthcare questi
 - Systematically document all findings for future **clinical**, **academic**, and **operational** use
 - Link each insight to **real-world implications** — to guide decision-making and policy formulation
 
-## Project Status
 
-🚧 Work in progress
-
-## Planned Deliverables
-
-- Comprehensive EDA notebook with rich visualizations
-- Statistical analysis & hypothesis testing
-- Feature importance & predictive modeling (severity / survival)
-- Country-wise disparity analysis
-- Executive summary with policy & clinical recommendations
-
----
-
-Feel free to ⭐ the repo if you're interested in cancer analytics, health disparities, or global health data insights!
